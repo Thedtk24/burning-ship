@@ -9,3 +9,6 @@ pip install matplotlib ou pip3 install matplotlib, selon la version que vous ave
 Lancez le programme en tapant : 
 
 "python suites.py"
+
+![burning-ship](https://github.com/user-attachments/assets/fd89c6b7-a8e2-4856-9418-25d194c997e9)
+
