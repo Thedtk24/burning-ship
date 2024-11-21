@@ -1,4 +1,4 @@
-# suite de burning-ship 
+# Suite de burning-ship 
 
 Assurez vous d'avoir installé python correctement, ainsi que "numpy" et "matplotlib"
 
