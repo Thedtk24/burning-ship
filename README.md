@@ -1,4 +1,4 @@
-# Suite de burning-ship 
+# Fractale de burning-ship 
 
 Assurez vous d'avoir installé python correctement, ainsi que "numpy" et "matplotlib"
 
